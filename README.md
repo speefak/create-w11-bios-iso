@@ -26,3 +26,7 @@ The script combines files from an existing Windows 10 ISO with the Windows 11 in
 - Root privileges for ISO creation and USB writing  
 - Installed packages: `git`, `wimtools`, `xorriso`  
 - `dialog` for interactive menus  
+
+
+Change the ISO paths for windows 10 and windows 11 iso images in script header
+Todo => add userinput and/or windows 11 download from mircosoft
