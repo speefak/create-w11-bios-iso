@@ -1,8 +1,4 @@
-# Windows 11 BIOS ISO Creator | CC BY-NC-SA  
-
----
-
-## Overview
+# Windows 11 BIOS ISO Creator
 
 This script creates a **Windows 11 installation ISO** that is compatible with **BIOS/Legacy boot systems** (UEFI is not supported).  
 Optionally, the generated ISO can be written directly to a USB drive to create a bootable installation media.  
